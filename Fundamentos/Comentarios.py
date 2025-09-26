@@ -1,3 +1,9 @@
+# =================================================
+# Fundamentos/Comentarios.py        
+# Autor: Cristian Souza
+# Descrição: Exemplos de comentários em Python
+# =================================================
+
 # isto é um comentario
 a = 1 # Haja comentario meu vingador
 
@@ -8,5 +14,6 @@ uma dissertação aqui
 """
 
 '''
-Aspas simples
-'''
+Aspas simples'''
+
+
