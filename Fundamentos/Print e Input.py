@@ -1,3 +1,9 @@
+# =================================================
+# Fundamentos/Print e Input.py        
+# Autor: Cristian Souza
+# Descrição: Sintaxe e exemplos de print e input em Python
+# =================================================
+
 print("(print) é uma palavra reservada de python!")
 
 a = 1
@@ -34,8 +40,6 @@ print(nome)
 num = input("Digite um numero: ")
 print(num)
 print(type(num)) # por padrão o input é uma string
-
-
 
 
 
