@@ -15,3 +15,6 @@ print(f"Olá {nome}, você tem {idade} anos.")
 print(f"Seu nome tem {len(nome)} letras.")
 print(f"Daqui 5 anos você terá {int(idade) + 5} anos.")
 print('--' * 15)
+
+
+
